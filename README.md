@@ -14,4 +14,10 @@ utilizies:
 -textport.com free outgoing sms messages
 
 
+
+
+
+
+
+
 for issues, concerns, questions, collaboration, administration, debugging, and all other project-related matters, please contact lm3044@trevor.org
